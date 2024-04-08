@@ -2,10 +2,10 @@
 <h3 align="center">Focused on Defi - 4 years of experience in Front-End development.</h3>
 
 - 🏗️Defi side projects I've built (https://github.com/Helkem0/ZeroDex https://github.com/Helkem0/TetherPay)
+  
+- 📖Currently Learning **React Native**
 
 - ⚛️Most Experienced with **React, Next.js, Javascript, Wagmi**
-
-- 📖Currently Learning **React Native**
 
 - Email📧 **helkem0@protonmail.com**
 - Twitter/X **https://twitter.com/Helkem0**
