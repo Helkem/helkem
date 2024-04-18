@@ -7,7 +7,7 @@
 
 - ⚛️Most Experienced with **React, Next.js, Typescript, Ethers.js, Wagmi**
 
-- Email📧 **helkem0@protonmail.com**
+- Email📧 **helkemzero@gmail.com**
 - Twitter/X **https://twitter.com/Helkem0**
 
 <h3 align="left">Languages and Tools:</h3>
