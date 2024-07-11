@@ -5,7 +5,7 @@
    
 - 📖Currently Learning **React Native**
 
-- ⚛️Most Experienced with **React, Next.js, Typescript, Ethers.js, Wagmi**
+- ⚛️Most Experienced with **React, Next.js, Vite, Typescript, Ethers.js, Wagmi**
 
 - Email📧 **helkemzero@gmail.com**
 - Twitter/X **https://twitter.com/Helkem** 
