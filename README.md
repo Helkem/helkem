@@ -1,7 +1,7 @@
 <h1 align="center">Helkem</h1>
 <h3 align="center">Focused on Defi - 4 years of experience in Front-End development.</h3>
  
-- Defi Side Projects I've built [ https://github.com/Helkem/ZeroXNFTs ]  [ https://github.com/Helkem/ZeroDex ] 
+- Defi Side Projects I've built [ https://github.com/Helkem/ZeroXNFTs ]  [ https://github.com/Helkem/ZeroDex ] [ https://github.com/Helkem/TetherPay ] 
    
 - 📖Currently Learning **React Native**
 
