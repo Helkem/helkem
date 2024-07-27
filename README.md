@@ -3,7 +3,7 @@
  
 - Defi Side Projects I've built [ https://github.com/Helkem/ZeroXNFTs ]  [ https://github.com/Helkem/ZeroDex ] [ https://github.com/Helkem/TetherPay ] 
    
-- 📖Currently Learning **React Native**
+- Currently Learning **React Native**
 
 - Most Experienced with **React, Next.js, Vite, Typescript, Ethers.js, Wagmi**
 
