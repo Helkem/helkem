@@ -7,7 +7,7 @@
 
 - Most Experienced with **React, Next.js, Vite, Typescript, Ethers.js, Wagmi**
 
-- Email📧 **helkemzero@gmail.com**
+- Email **helkemzero@gmail.com**
 - Twitter/X **https://twitter.com/Helkem** 
 
 <h3 align="left">Languages and Tools:</h3>
