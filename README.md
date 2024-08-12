@@ -1,7 +1,8 @@
 <h1 align="center">Helkem</h1>
 <h3 align="center">Focused on Web3 - 4 years of experience in Front-End development.</h3>
  
-- Web3 Side Projects I've built [ https://zeroxnft.vercel.app/ ]  [ https://github.com/Helkem/ZeroDex ] [ https://github.com/Helkem/StablePay ] 
+- Web3 Side Projects I've built [ https://zeroxnft.vercel.app/ ] [ https://stablepayx.vercel.app/ ] 
+    [ https://github.com/Helkem/ZeroDex ] 
    
 - Currently Learning **React Native**
 
