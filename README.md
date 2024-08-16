@@ -6,8 +6,7 @@
    
 - Currently Learning **React Native**
 
-- Most Experienced with **React, Next.js, Vite, Typescript, Ethers.js, Wagmi**
-
+- Website **https://helkem.vercel.app/**
 - Email **helkemzero@gmail.com**
 - Twitter/X **https://twitter.com/Helkem** 
 
