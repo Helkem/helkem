@@ -1,5 +1,5 @@
 <h1 align="center">Helkem</h1>
-<h3 align="center">Focused on Web3 - 4+ years of experience in Front-End development.</h3>
+<h3 align="center">Focused on Web3 - Experienced in Front-End development and UI/UX design.</h3>
  
 - Web3 Side Projects I've built [https://cryptoindexz.vercel.app/] [ https://zeroxnft.vercel.app/ ] [ https://stablepayx.vercel.app/ ] 
     [ https://github.com/Helkem/ZeroDex ] 
